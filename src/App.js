@@ -1,7 +1,8 @@
 import React from "react";
+import { WelcomePage } from "./WelcomePage";
 
 function App() {
-  return <div>Jokenpo game goes here.</div>;
+  return <WelcomePage />;
 }
 
 export default App;
